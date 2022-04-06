@@ -1,0 +1,15 @@
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\FizzBuzzTesting.exe
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\FizzBuzzTesting.deps.json
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\FizzBuzzTesting.runtimeconfig.json
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\FizzBuzzTesting.dll
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\ref\FizzBuzzTesting.dll
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\bin\Debug\net6.0\FizzBuzzTesting.pdb
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.csproj.AssemblyReference.cache
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.AssemblyInfoInputs.cache
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.AssemblyInfo.cs
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.csproj.CoreCompileInputs.cache
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.dll
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\ref\FizzBuzzTesting.dll
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.pdb
+C:\Users\jo\RiderProjects\FizzBuzzTesting\FizzBuzzTesting\obj\Debug\net6.0\FizzBuzzTesting.genruntimeconfig.cache
