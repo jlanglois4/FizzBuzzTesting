@@ -47,6 +47,12 @@ public class FizzBuzzTest
     {
         Assert.Equal("FizzBuzz", fb.DoFizzBuzz(30));
     }
+    
+    [Fact]
+    public void OneThousandFiveHundredAndSixtyThree()
+    {
+        Assert.Equal("Fizz", fb.DoFizzBuzz(1563));
+    }
 
 
 }
